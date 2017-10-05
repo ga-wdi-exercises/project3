@@ -22,7 +22,7 @@ Your instructors have grouped you with other classmates to design and build an a
 #### Front-End Requirements
   - This app must use a React front end that leverages the backend API in the above requirement.
   - Must use React Router to handle multiple views.
-  - Must communicate with the back-end API RESTfully to Create, Read, Update, and Destroy resources, using a library jQuery or axios.
+  - Must communicate with the back-end API RESTfully to Create, Read, Update, and Destroy resources, using a library like jQuery or axios.
 
 #### Deployment
   - App must be deployed to Heroku and GitHub pages or Surge.
@@ -118,3 +118,7 @@ Consider whether or not you want to introduce a barrier to entry for your applic
 #### Maps
 
 If your application uses physical locations, consider adding a map ***as a bonus feature*** to your application. [Check out this Google Maps component library](https://tomchentw.github.io/react-google-maps/).
+
+#### Awesome React
+
+https://github.com/enaqx/awesome-react
